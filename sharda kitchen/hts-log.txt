@@ -7,3 +7,74 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 	do not share these files/folders if you want these information to remain private
 
 18:46:06	Warning: 	Note: due to androthemes.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+18:58:13	Warning: 	Found for androthemes.com/themes/wp/cookiteer/checkout/
+18:58:13	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/checkout/ to http://androthemes.com/themes/wp/cookiteer/cart/
+18:59:14	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/bread/
+18:59:14	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/bread/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/bread
+18:59:16	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/breakfast/
+18:59:16	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/breakfast/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/breakfast
+18:59:19	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/cookies/
+18:59:19	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/cookies/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/cookies
+18:59:22	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/dessert/
+18:59:22	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/dessert/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/dessert
+18:59:25	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/grill/
+18:59:25	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/grill/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/grill
+18:59:30	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/medium-rare/
+18:59:30	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/medium-rare/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/medium-rare
+18:59:32	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/pasta/
+18:59:32	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/pasta/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/pasta
+18:59:36	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/quick-food/
+18:59:36	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/quick-food/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/quick-food
+18:59:40	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/recipe-category/salad/
+18:59:40	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/recipe-category/salad/ to http://androthemes.com/themes/wp/cookiteer/recipes/recipe-category/salad
+18:59:43	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cuisine/carribean/
+18:59:43	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cuisine/carribean/ to http://androthemes.com/themes/wp/cookiteer/recipes/cuisine/carribean
+18:59:45	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cuisine/chinese/
+18:59:45	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cuisine/chinese/ to http://androthemes.com/themes/wp/cookiteer/recipes/cuisine/chinese
+18:59:49	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cuisine/french/
+18:59:49	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cuisine/french/ to http://androthemes.com/themes/wp/cookiteer/recipes/cuisine/french
+18:59:51	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cuisine/italian/
+18:59:51	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cuisine/italian/ to http://androthemes.com/themes/wp/cookiteer/recipes/cuisine/italian
+18:59:54	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cuisine/mediterranean/
+18:59:54	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cuisine/mediterranean/ to http://androthemes.com/themes/wp/cookiteer/recipes/cuisine/mediterranean
+18:59:59	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cooking-method/boiling/
+18:59:59	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cooking-method/boiling/ to http://androthemes.com/themes/wp/cookiteer/recipes/cooking-method/boiling
+19:00:01	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cooking-method/dry-frying/
+19:00:01	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cooking-method/dry-frying/ to http://androthemes.com/themes/wp/cookiteer/recipes/cooking-method/dry-frying
+19:00:20	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cooking-method/frying/
+19:00:20	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cooking-method/frying/ to http://androthemes.com/themes/wp/cookiteer/recipes/cooking-method/frying
+19:00:22	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/cooking-method/grilling/
+19:00:22	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/cooking-method/grilling/ to http://androthemes.com/themes/wp/cookiteer/recipes/cooking-method/grilling
+19:00:25	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/diabetic/
+19:00:25	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/diabetic/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/diabetic
+19:00:28	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/gluten-free/
+19:00:28	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/gluten-free/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/gluten-free
+19:01:03	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/halal/
+19:01:03	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/halal/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/halal
+19:01:07	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/kosher/
+19:01:07	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/kosher/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/kosher
+19:01:09	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/low-calorie/
+19:01:09	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/low-calorie/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/low-calorie
+19:01:13	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/low-fat/
+19:01:13	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/low-fat/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/low-fat
+19:01:16	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/low-lactose/
+19:01:16	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/low-lactose/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/low-lactose
+19:01:22	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/low-salt/
+19:01:22	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/low-salt/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/low-salt
+19:01:26	Warning: 	Found for androthemes.com/themes/wp/cookiteer/blog/diet/vegan/
+19:01:26	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/diet/vegan/ to http://androthemes.com/themes/wp/cookiteer/recipes/diet/vegan
+19:04:35	Error: 	"Bad Request" (400) at link androthemes.com/themes/wp/cookiteer/wp-admin/admin-ajax.php (from androthemes.com/themes/wp/cookiteer/)
+19:04:35	Warning: 	Retry after error -4 (Connect Error) at link https://c0.wp.com/c/5.3.4/wp-includes/js/masonry.min.js (from androthemes.com/themes/wp/cookiteer/)
+19:04:35	Warning: 	Retry after error -4 (Connect Error) at link androthemes.com/themes/wp/cookiteer/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 (from androthemes.com/themes/wp/cookiteer/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+19:04:36	Warning: 	Retry after error -4 (Connect Error) at link androthemes.com/themes/wp/cookiteer/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0 (from androthemes.com/themes/wp/cookiteer/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+19:04:44	Warning: 	Retry after error -4 (No data (connection closed)) at link androthemes.com/themes/wp/cookiteer/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0 (from androthemes.com/themes/wp/cookiteer/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0)
+19:04:49	Warning: 	Retry after error 500 (Internal Server Error) at link androthemes.com/themes/wp/cookiteer/wp-content/themes/cookiteer/assets/images/bg.jpg (from androthemes.com/themes/wp/cookiteer/wp-content/themes/cookiteer/assets/css/cookiteer-main.css?ver=1.4.0)
+19:04:53	Warning: 	Moved Permanently for androthemes.com/themes/wp/cookiteer/blog/author/abed/
+19:04:53	Warning: 	File has moved from androthemes.com/themes/wp/cookiteer/blog/author/abed/ to http://androthemes.com/themes/wp/cookiteer
+19:05:54	Error: 	"Not Found" (404) at link androthemes.com/themes/wp/cookiteer/recipes/ http://androthemes.com/themes/wp/cookiteer/recipes/ (from androthemes.com/themes/wp/cookiteer/home-v3/)
+19:06:21	Error: 	"Not Found" (404) at link androthemes.com/themes/wp/cookiteer/?page_id=3 (from androthemes.com/themes/wp/cookiteer/my-account/)
+19:08:25	Warning: 	Retry after error 500 () at link androthemes.com/themes/wp/cookiteer/wp-content/themes/cookiteer/assets/images/bg.jpg (from androthemes.com/themes/wp/cookiteer/wp-content/themes/cookiteer/assets/css/cookiteer-main.css?ver=1.4.0)
+19:08:51	Error: 	"" (500) after 2 retries at link androthemes.com/themes/wp/cookiteer/wp-content/themes/cookiteer/assets/images/bg.jpg (from androthemes.com/themes/wp/cookiteer/wp-content/themes/cookiteer/assets/css/cookiteer-main.css?ver=1.4.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 49 seconds : 678 links scanned, 638 files written (34870816 bytes overall) [24366324 bytes received at 17798 bytes/sec], 13841103 bytes transferred using HTTP compression in 239 files, ratio 20%, 1.1 requests per connection
+(4 errors, 65 warnings, 0 messages)

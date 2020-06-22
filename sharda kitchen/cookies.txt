@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+androthemes.com	TRUE	/themes/wp/cookiteer/	FALSE	1999999999	woocommerce_items_in_cart	1
+androthemes.com	TRUE	/themes/wp/cookiteer/	FALSE	1999999999	wp_woocommerce_session_6a7ab52a4294d1c17773f39710f1dc57	caf8e136f76d212d2ed148172496fb27%7C%7C1593005238%7C%7C1593001638%7C%7C4b0c58b76fd4e298127b6b8a4737b6f6
+androthemes.com	TRUE	/themes/wp/cookiteer/	FALSE	1999999999	woocommerce_cart_hash	99f3969702769a471111f7eab549ecac
+
